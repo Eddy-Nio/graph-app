@@ -91,7 +91,7 @@ A recommended project structure is as follows:
 ### Setup Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Eddy-nio/graph_app.git
+   git clone https://github.com/Eddy-Nio/graph_app.git
    cd graph_app
    ```
 2. **Create a virtual environment (optional):**
